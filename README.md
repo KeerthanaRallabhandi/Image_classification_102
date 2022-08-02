@@ -54,7 +54,7 @@ Testing and Inference - the performance of the trained model is tested on the te
 - Finally, converting image back to a NumPy array.
 
 - Top 5 label Predictions on the unseen data (sample images passed using Test folder) using the trained model.
-  - Class propbailites acheiving upto to 0.7 with Test accuracy upto 70%
+  - Class probabilites acheiving upto 0.7 with Test accuracy of 70%
 
 
 
